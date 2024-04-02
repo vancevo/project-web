@@ -1,0 +1,9 @@
+.dropItem:hover {
+  background-color: #e7e3e3;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.dropItem {
+  text-decoration: none;
+}
