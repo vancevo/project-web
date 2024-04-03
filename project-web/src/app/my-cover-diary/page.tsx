@@ -49,7 +49,6 @@ const MyCoverDiary = () => {
               </h2>
               <p
                 style={{
-                  // width: "250px",
                   textAlign: "justify",
                   color: "gray",
                 }}
