@@ -62,7 +62,7 @@ const RestaurantMenu = () => {
                   fontSize: "25px",
                 }}
               >
-                FOOD NAME -{" "}
+                FOOD NAME -
                 <span
                   style={{
                     color: "gray",
@@ -80,7 +80,7 @@ const RestaurantMenu = () => {
                 }}
               >
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
+                industry. Lorem Ipsum has been the standard dummy
                 text ever since the 1500s, when an unknown printer took a galley
                 of type and scrambled it to make a type specimen book. It has
                 survived not only five centuries
@@ -93,7 +93,7 @@ const RestaurantMenu = () => {
                   fontSize: "25px",
                 }}
               >
-                FOOD NAME -{" "}
+                FOOD NAME -
                 <span
                   style={{
                     color: "gray",
@@ -111,7 +111,7 @@ const RestaurantMenu = () => {
                 }}
               >
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
+                industry. Lorem Ipsum has been the standard dummy
                 text ever since the 1500s, when an unknown printer took a galley
                 of type and scrambled it to make a type specimen book. It has
                 survived not only five centuries
@@ -164,7 +164,7 @@ const RestaurantMenu = () => {
                 }}
               >
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
+                industry. Lorem Ipsum has been the standard dummy
                 text ever since the 1500s, when an unknown printer took a galley
                 of type and scrambled it to make a type specimen book. It has
                 survived not only five centuries
@@ -177,7 +177,7 @@ const RestaurantMenu = () => {
                   fontSize: "25px",
                 }}
               >
-                DRINK NAME -{" "}
+                DRINK NAME -
                 <span
                   style={{
                     color: "gray",
@@ -195,7 +195,7 @@ const RestaurantMenu = () => {
                 }}
               >
                 Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
+                industry. Lorem Ipsum has been the standard dummy
                 text ever since the 1500s, when an unknown printer took a galley
                 of type and scrambled it to make a type specimen book. It has
                 survived not only five centuries
@@ -229,7 +229,7 @@ const RestaurantMenu = () => {
                       <p style="font-size: 25px;">FOOD NAME - <span style="color: gray;">$20.00</span></p>
                       <p style="font-size: 15px; width: 50vw; text-align: justify; color: gray;">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard dummy text ever since the
+                        Lorem Ipsum has been the standard dummy text ever since the
                         1500s, when an unknown printer took a galley of type and scrambled it to
                         make a type specimen book. It has survived not only five centuries...
                       </p>
@@ -239,7 +239,7 @@ const RestaurantMenu = () => {
                       <p style="font-size: 25px;">FOOD NAME - <span style="color: gray;">$20.00</span></p>
                       <p style="font-size: 15px; width: 50vw; text-align: justify; color: gray;">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard dummy text ever since the
+                        Lorem Ipsum has been the standard dummy text ever since the
                         1500s, when an unknown printer took a galley of type and scrambled it to
                         make a type specimen book. It has survived not only five centuries...
                       </p>
@@ -256,7 +256,7 @@ const RestaurantMenu = () => {
                       <p style="font-size: 25px;">DRINK NAME - <span style="color: gray;">$11.00</span></p>
                       <p style="font-size: 15px; width: 50vw; text-align: justify; color: gray;">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard dummy text ever since the
+                        Lorem Ipsum has been the standard dummy text ever since the
                         1500s, when an unknown printer took a galley of type and scrambled it to
                         make a type specimen book. It has survived not only five centuries...
                       </p>
@@ -266,7 +266,7 @@ const RestaurantMenu = () => {
                       <p style="font-size: 25px;">DRINK NAME - <span style="color: gray;">$11.00</span></p>
                       <p style="font-size: 15px; width: 50vw; text-align: justify; color: gray;">
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard dummy text ever since the
+                        Lorem Ipsum has been the standard dummy text ever since the
                         1500s, when an unknown printer took a galley of type and scrambled it to
                         make a type specimen book. It has survived not only five centuries...
                       </p>

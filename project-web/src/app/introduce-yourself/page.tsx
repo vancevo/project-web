@@ -58,9 +58,9 @@ const IntroduceYourself = () => {
               }}
             >
               Aiming to reduce
-            </span>{" "}
+            </span>
             global warming through sustain- able energy production and
-            consumption.{" "}
+            consumption.
             <span
               style={{
                 color: "#393c41",
@@ -68,7 +68,7 @@ const IntroduceYourself = () => {
               }}
             >
               Planning to reduce
-            </span>{" "}
+            </span>
             the risk of human extinction by making life multi-planetary and
             setting up a human colony on Mars.
           </p>
